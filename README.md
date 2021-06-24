@@ -1,12 +1,12 @@
 # NIK & KK GENERATOR (NO BS EDITION)
 The data in this repo probably outdated and didn't even work at all, but you can try using it if you want it.
 
-### data source :
+### Data source :
 1. [afokay/nik-kk][a]
 2. [aayid/generatorktpkk][b]
 
 ### Installation :
-clone this repo 
+Clone this repo
 ```shell
 git clone https://github.com/mbahmodin/nik-kk.git
 ```
