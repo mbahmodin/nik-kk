@@ -1,18 +1,19 @@
-# NIK & KK GENERATOR
+# NIK & KK GENERATOR (NO BS EDITION)
 
-Run :
-```
-- python nik.py
-if error
-- python2 nik.py
-```
-Info :
-```
-[1]. Generate NIK & KK (to generate nik & kk)
-[2]. About (about this tools)
-[3]. Exit (exit from tools)
+### data source :
+1. [afokay/nik-kk][a]
+2. [aayid/generatorktpkk][b]
 
-This tools update 1 x 3month
-```
-# Image :
-![nik](https://user-images.githubusercontent.com/45879091/83844736-85b99b80-a6d5-11ea-9771-2cc9d40c131d.jpg)
+### Installation :
+1. git clone this repo or download the [nik.py][c]
+2. run it `python nik.py`
+
+### Output :
+![nik](https://user-images.githubusercontent.com/85983303/123252540-97572680-d516-11eb-82cd-5b5db3458284.png)
+
+
+[c]: https://raw.githubusercontent.com/mbahmodin/nik-kk/master/nik.py
+
+[a]: https://github.com/afokay/nik-kk
+
+[b]: https://github.com/aayid/generatorktpkk
