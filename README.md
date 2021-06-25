@@ -1,7 +1,9 @@
-# NIK & KK GENERATOR (NO BS EDITION)
-The data in this repo probably outdated and didn't even work at all, but you can try using it if you want it.
+# NIK & KK ~~GENERATOR~~ DISPENSER (NO BS EDITION)
+
+This is **NOT A GENERATOR** it's actually did not generate anything, it is just a simple script that randomly choose an item in the array, or what I like to call it **DISPENSER**.
 
 ### Data source :
+The data in this repo probably outdated and didn't even work at all, but you can try using it if you want it.
 1. [afokay/nik-kk][a]
 2. [aayid/generatorktpkk][b]
 
